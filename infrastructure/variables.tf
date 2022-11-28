@@ -3,11 +3,11 @@ variable "aws_region" {
 }
 
 variable "lambda_function_name" {
-  default = "IGTIexecutaEMRaovivo"
+  default = "GabrielexecutaEMRaovivo"
 }
 
 variable "key_pair_name" {
-  default = "ney-igti-teste"
+  default = "gabriel-teste"
 }
 
 variable "airflow_subnet_id" {
